@@ -55,6 +55,13 @@ This tool is intended for educational use and authorized security testing only.
 Misuse of this tool can lead to legal consequences.
 Always get permission before scanning any system.
 
+## 📥 How to Download, Run, and Modify Gray-Finder
+
+### 🔻 1. Clone the Repository
+
+git clone https://github.com/subir-the-coder/Gray-Finder.git
+cd Gray-Finder
+
 
 **Thank me buying a coffeee if its useful for you**
 
