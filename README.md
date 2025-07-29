@@ -22,9 +22,6 @@ F.I.N.D.E.R is a powerful, multi-threaded reconnaissance and domain enumeration 
 - 🛠 **Port Scanning** using raw socket
 - 📦 **WHOIS Information Extraction**
 - ⚠️ **Subdomain Takeover Detection** (CNAME to dead services)
-- 🎨 **Colorized CLI Output** via `colorama`
-- 🩸 **Bloody ASCII Banner Lines** with `pyfiglet`
-- 📁 **All results saved to `found.txt`**
 
 ---
 
