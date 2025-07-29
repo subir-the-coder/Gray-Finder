@@ -46,9 +46,7 @@ chmod +x finder.py
 | `-d` | Target domain to scan            |
 | `-t` | Number of threads (default: 100) |
 
-👨‍💻 Author
-Subir Sutradhar
-🐧 Crafted with ❤️ on Parrot OS
+Crafted with ❤️ on Parrot OS
 
 ⚠️ Disclaimer
 This tool is intended for educational use and authorized security testing only.
