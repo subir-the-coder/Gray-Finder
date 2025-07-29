@@ -48,7 +48,7 @@ chmod +x finder.py
 
 👨‍💻 Author
 Subir Sutradhar
-🐧 Crafted with ❤️ & CCD on Parrot OS
+🐧 Crafted with ❤️ on Parrot OS
 
 ⚠️ Disclaimer
 This tool is intended for educational use and authorized security testing only.
@@ -57,4 +57,6 @@ Always get permission before scanning any system.
 
 
 **Thank me buying a coffeee if its useful for you**
+
+Report any bugs on subirthecoder35@gmail.com | Feel free to modify or add any more logics without changing banner | Thanks Coders
 
