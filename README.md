@@ -4,6 +4,9 @@ Python scripts and tools built for Recon .... Red Teamer
 
 # 🔍 F.I.N.D.E.R - Fast Intelligent Network Domain Enumeration & Recon
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d4f2dd8f-7729-48cb-b6c0-2f533cd9612b" />
+
+
 > ⚠️ Educational and authorized use only. Do not run this tool against targets you do not own or have explicit permission to test.
 
 F.I.N.D.E.R is a powerful, multi-threaded reconnaissance and domain enumeration tool crafted in **Python** on **Parrot OS**. It is designed to automate the process of identifying subdomains, scanning ports, detecting WAF/CDN presence, and gathering WHOIS information — making it an ideal utility for penetration testers, ethical hackers, and bug bounty hunters.
