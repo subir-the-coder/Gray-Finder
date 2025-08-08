@@ -61,7 +61,7 @@ git clone https://github.com/subir-the-coder/Gray-Finder.git
 cd Gray-Finder
 
 
-**Thank me buying a coffeee if its useful for you**
+
 
 Report any bugs on subirthecoder35@gmail.com | Feel free to modify or add any more logics without changing banner | Thanks Coders
 
